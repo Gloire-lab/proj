@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Pacifico|Righteous|Roboto+Condensed|Ubuntu&display=swap');
+
+
+.nav-link{
+
+    font-size: 20px;
+    margin: 15px;
+    color: black;
+    font-family: "Roboto Condensed";
+    
+}
+.nav-link:hover{
+    color: brown !important;
+}
+.menu-right-btn:hover{
+  background-color: cadetblue;   
+}
+.site-content{
+    background-image: url(mom.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+.site-title{
+    color:darkred;
+    font-family: 'Righteous';
+    margin-top: 30%;
+    margin-bottom: 1%;
+    
+}
+.site-btn1,.site2-btn1{
+    margin-top: 5%;
+    margin-bottom: 20%;
+}
+/* section 1 */
+
+.section1,.heading-1{
+    margin-top: 8%;
+}
+.section1,.heading-2{
+    margin-top: 5%;
+    font-size: 39px;
+}
+.section-1 .para-1{
+    width: 60%;
+    margin-left: 20%;
+    margin-bottom: 5%;
+} .
+.section-1 .card-text, .para-1{
+    color: rgba(0,0,0,0.59);
+} 
